@@ -1,2 +1,2 @@
 # Projeto-mobile-first
-Desenvolvendo uma plataforma de assinatura;
+Desenvolvendo uma plataforma de assinatura; 
